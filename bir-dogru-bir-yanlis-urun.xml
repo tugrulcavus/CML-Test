@@ -1,7 +1,7 @@
 <root>
     <product>
     <isActive>true</isActive>
-    <name>XMLTest-1-Yanlıs</name>
+    <name>XMLTest-1</name>
     <tags>abc</tags>
     <tags>123</tags>
     <vatRate>1</vatRate>
