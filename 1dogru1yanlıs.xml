@@ -8,7 +8,7 @@
     <image>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</image>
     <images>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</images>
     <images>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</images>
-    <stockCode>XML42661</stockCode>
+    <stockCode>CVSTestDogru</stockCode>
     <stockQuantity>100000</stockQuantity>
     <code>K426611</code>
     <purchaseLimit>2</purchaseLimit>
@@ -30,14 +30,14 @@
     <image>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</image>
     <images>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</images>
     <images>https://clickmelive-public.s3.eu-central-1.amazonaws.com/products/7A3KfbWSlvb2eldtBEErK5gKzqFVFPEd.png</images>
-    <stockCode>XML42662</stockCode>
+    <stockCode>CVSTest-YanlıŞ</stockCode>
     <stockQuantity>100000</stockQuantity>
     <code>K426622</code>
     <purchaseLimit>2</purchaseLimit>
     <brandId>12345678</brandId>
     <barcode>K426622</barcode>
     <discountedPrice>50</discountedPrice>
-    <price>100</price>
+    <price>fiyatiyanlıs</price>
     <categoryId>3816</categoryId>
     <description>Açıklama Açıklama</description>
     <productType>0</productType>
